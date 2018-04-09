@@ -1,3 +1,4 @@
+-- ...\esx_policejob\locales/en.lua
 Locales['en'] = {
   -- Cloackroom
   ['cloakroom'] = 'locker room',
