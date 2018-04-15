@@ -4,3 +4,5 @@
 
 Skriv här VAD och VEM som har översatt
 NAMN - FIL
+
+Nemi Tall - polis.lua
